@@ -10,4 +10,4 @@
 
 - Demo This  Project :point_down:
 
-![Screenshot.](icon/qr-code.png)
+![Screenshot.](Demo.png)

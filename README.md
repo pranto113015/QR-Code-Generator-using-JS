@@ -10,4 +10,4 @@
 
 - Demo This  Project :point_down:
 
-![Screenshot.](Demo.png)
+![Demo Image of Project.](Demo.png)
